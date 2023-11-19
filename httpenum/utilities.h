@@ -26,10 +26,10 @@ SOFTWARE.
 #include <string.h>
 #include <iostream>
 
-class UTILITIES 
+class UTILITIES
 {
-	public:
-		void checkArguments(int argc, char* argv[]);  // checks input arguments
-	private:
-		static int printHelp();  // prints help message
+public:
+	void checkArguments(int argc, char* argv[]);  // checks input arguments
+private:
+	static int printHelp();  // prints help message
 };
