@@ -5,7 +5,9 @@
 class UTILITIES {
 
 public:
-	std::string checkArguments(int argc, char* argv[]); // checks input arguments
+	void checkArguments(int argc, char* argv[]); // checks input arguments
+
+private:
 	static int printHelp(); // prints help message
 
 };
