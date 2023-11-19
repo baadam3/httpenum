@@ -1,10 +1,11 @@
 #pragma once
 #include "utilities.h"
 
+UTILITIES::UTILITIES() {}
+
 int UTILITIES::printHelp()  // prints the help message
 {
-	std::cout << "-h, --help\tPrints this help menu.\n"
-		<< std::endl;
+	std::cout << "-h, --help\tPrints this help menu.\n" << std::endl;
 	return 0;
 }
 
