@@ -5,6 +5,9 @@ HTTPEnum is an open source project made with some friends as a refference to our
   <a href="https://github.com/marketplace/actions/super-linter">
     <img alt="Linters passing" src="https://github.com/baadam3/httpenum/actions/workflows/superlinter.yml/badge.svg" />
   </a>
+  <a href="https://github.com/baadam3/httpenum/graphs/contributors">
+    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/baadam3/httpenum" />
+  </a>
 </p>
 
 
