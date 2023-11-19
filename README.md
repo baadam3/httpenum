@@ -1,6 +1,12 @@
-<h1 style="text-align: center;">HTTPEnum</h1>
-
+<p align="center">
+<h1>HTTPEnum</h1>
 HTTPEnum is an open source project made with some friends as a refference to our resumes and to make our every day work life easier by implementing fetures that other tools lack.
+<h2 align="center">GitHub Codebase stats</h2>
+  <a href="https://github.com/marketplace/actions/super-linter">
+    <img alt="Linters passing" src="https://github.com/baadam3/httpenum/actions/workflows/superlinter.yml/badge.svg" />
+  </a>
+</p>
+
 
 ## Plans
 
