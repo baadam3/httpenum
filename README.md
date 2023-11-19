@@ -1,5 +1,5 @@
 <p align="center">
-<h1>HTTPEnum</h1>
+<h1 align="center">HTTPEnum</h1>
 HTTPEnum is an open source project made with some friends as a refference to our resumes and to make our every day work life easier by implementing fetures that other tools lack.
 <h2 align="center">GitHub Codebase stats</h2>
   <a href="https://github.com/marketplace/actions/super-linter">
