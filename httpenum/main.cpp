@@ -1,8 +1,8 @@
 #include <iostream>
-#include "httpenum.h"
+#include "utilities.h"
 
 int main(int argc, char* argv[]) {
-	HTTPENUM program;
+	UTILITIES program;
 	program.checkArguments(argc, argv);
 	return 0;
 }
