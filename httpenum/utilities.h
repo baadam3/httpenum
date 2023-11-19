@@ -26,7 +26,8 @@ SOFTWARE.
 #include <string.h>
 #include <iostream>
 
-class UTILITIES {
+class UTILITIES 
+{
 	public:
 		void checkArguments(int argc, char* argv[]);  // checks input arguments
 	private:
