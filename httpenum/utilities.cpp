@@ -1,14 +1,14 @@
 #pragma once
-#include "httpenum.h"
+#include "utilities.h"
 
 
 
-int HTTPENUM::printHelp() {
+int UTILITIES::printHelp() {
 	std::cout << "Help" << std::endl;
 	return 0;
 }
 
-std::string HTTPENUM::checkArguments(int argc, char* argv[]) {
+std::string UTILITIES::checkArguments(int argc, char* argv[]) {
 	if (argc == 1)
 		return "";
 	else {

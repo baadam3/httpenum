@@ -2,9 +2,10 @@
 #include <iostream>
 #include <string.h>
 
-class HTTPENUM {
+class UTILITIES {
 
 public:
-	static int printHelp(); // prints help message
 	std::string checkArguments(int argc, char* argv[]); // checks input arguments
+	static int printHelp(); // prints help message
+
 };
