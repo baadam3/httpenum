@@ -28,7 +28,7 @@ on:
 jobs:
   build:
     # Name the Job
-    name: Lint Code Base
+    name: Superlinter
     # Set the agent to run on
     runs-on: ubuntu-latest
 
