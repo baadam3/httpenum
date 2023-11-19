@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">HTTPEnum</h1>
-<a align="center">HTTPEnum is an open source project made with some friends as a refference to our resumes and to make our every day work life easier by implementing fetures that other tools lack.</a>
+<p>HTTPEnum is an open source project made with some friends as a refference to our resumes and to make our every day work life easier by implementing fetures that other tools lack.</p>
 <h2 align="center">GitHub Codebase stats</h2>
   <a href="https://github.com/marketplace/actions/super-linter">
     <img alt="Linters passing" src="https://github.com/baadam3/httpenum/actions/workflows/superlinter.yml/badge.svg" />
@@ -14,8 +14,8 @@
   <a href="https://github.com/baadam3/httpenum/pulls">
     <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/baadam3/httpenum?color=9b51e0" />
   </a>
-  <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+  <a href="https://securityscorecards.dev/viewer/?uri=github.com/baadam3/httpenum">
+    <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/baadam3/httpenum/badge" />
   </a>
 </p>
 
