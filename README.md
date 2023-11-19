@@ -1,5 +1,6 @@
+# HTTPEnum
+
 <p align="center">
-<h1 align="center">HTTPEnum</h1>
 <p align="center">HTTPEnum is an open source project made with some friends as a refference to our resumes and to make our every day work life easier by implementing fetures that other tools lack.</p>
 <h2 align="center">GitHub Codebase stats</h2>
   <a href="https://github.com/marketplace/actions/super-linter">
@@ -16,6 +17,9 @@
   </a>
   <a href="https://securityscorecards.dev/viewer/?uri=github.com/baadam3/httpenum">
     <img align="center" alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/baadam3/httpenum/badge" />
+  </a>
+  <a href="https://www.bestpractices.dev/projects/8087">
+    <img align="center" src="https://www.bestpractices.dev/projects/8087/badge">
   </a>
 </p>
 
