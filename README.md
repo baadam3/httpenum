@@ -17,6 +17,9 @@
   <a href="https://securityscorecards.dev/viewer/?uri=github.com/baadam3/httpenum">
     <img align="center" alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/baadam3/httpenum/badge" />
   </a>
+  <a href="https://www.bestpractices.dev/projects/8087">
+    <img align="center" src="https://www.bestpractices.dev/projects/8087/badge">
+  </a>
 </p>
 
 
