@@ -3,7 +3,7 @@
 # Documentation:
 # https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions
 #
-name: Lint Code Base
+name: Superlinter
 #############################
 # Start the job on all push #
 #############################
